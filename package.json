@@ -1,0 +1,18 @@
+{
+  "name": "headspin-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "suitest interactive mocha -r lib/mochaSetup.js --no-timeouts --exit"
+  },
+  "private": true,
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "mocha": "^8.2.1",
+    "node-fetch": "^2.6.1",
+    "prettyjson": "^1.2.1",
+    "rc": "^1.2.8",
+    "suitest-js-api": "^1.17.8"
+  }
+}
