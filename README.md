@@ -1,4 +1,4 @@
-# Headspin <> Suitest integration demo
+# HeadSpin <> Suitest integration demo
 
 To run the demo:
 
@@ -7,4 +7,4 @@ To run the demo:
 - Make sure you have [NodeJS](https://nodejs.org/en/) installed.
 - In terminal run `npm ci` to install all dependencies.
 - In terminal run `npm test` to start the test.
-- In the console output you will see a link to the Headspin session for this test run.
+- In the console output you will see a link to the [HeadSpin](https://www.headspin.io) session for this test run.
